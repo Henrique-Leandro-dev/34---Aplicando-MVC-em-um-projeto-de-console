@@ -9,7 +9,7 @@ namespace MvcConsole
         static void Main(string[] args)
         {
             ProdutoController produtos = new ProdutoController();
-            produtos.Buscar("200,56");
+            produtos.Buscar("49,98");
         }
     }
 }
