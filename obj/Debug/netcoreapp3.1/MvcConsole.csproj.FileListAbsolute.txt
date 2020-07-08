@@ -1,0 +1,13 @@
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\MvcConsole\obj\Debug\netcoreapp3.1\MvcConsole.csprojAssemblyReference.cache
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\MvcConsole\obj\Debug\netcoreapp3.1\MvcConsole.AssemblyInfoInputs.cache
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\MvcConsole\obj\Debug\netcoreapp3.1\MvcConsole.AssemblyInfo.cs
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\MvcConsole\obj\Debug\netcoreapp3.1\MvcConsole.csproj.CoreCompileInputs.cache
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\MvcConsole\bin\Debug\netcoreapp3.1\MvcConsole.exe
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\MvcConsole\bin\Debug\netcoreapp3.1\MvcConsole.deps.json
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\MvcConsole\bin\Debug\netcoreapp3.1\MvcConsole.runtimeconfig.json
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\MvcConsole\bin\Debug\netcoreapp3.1\MvcConsole.runtimeconfig.dev.json
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\MvcConsole\bin\Debug\netcoreapp3.1\MvcConsole.dll
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\MvcConsole\bin\Debug\netcoreapp3.1\MvcConsole.pdb
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\MvcConsole\obj\Debug\netcoreapp3.1\MvcConsole.dll
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\MvcConsole\obj\Debug\netcoreapp3.1\MvcConsole.pdb
+C:\Users\henri\OneDrive\Área de Trabalho\SENAI\MvcConsole\obj\Debug\netcoreapp3.1\MvcConsole.genruntimeconfig.cache
